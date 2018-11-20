@@ -19,9 +19,9 @@ function setupRequestNetwork() {
 }
 
 module.exports = {
-	setupRequestNetwork,
-	getRequestId,
-	getCancelRequestCount,
+  setupRequestNetwork,
+  getRequestId,
+  getCancelRequestCount,
 }
 
 // -- Do not edit anything above this line --
